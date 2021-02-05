@@ -1,0 +1,35 @@
+body{
+    background-color: #333333;
+    font-family: sans-serif;
+    background-image: url(../images/bkgd.png)
+}
+
+a:hover{
+    color:blueviolet;
+}
+
+h1, h2{
+    background-color: #ccc;
+}
+
+hi{
+    text-align: center;
+    font-size: 300%;
+    font-variant: small-caps;
+    letter-spacing: 10px
+}
+
+img{
+    border: solid #ccc 10px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+p{
+    background-color: #ccc;
+}
+
+ol{
+    background-color: #ccc;
+}

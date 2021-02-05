@@ -1,0 +1,40 @@
+.container{
+	width: 750px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+
+head{
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto&display=swap" rel="stylesheet">
+   
+}
+
+
+body{ 
+    background: #DED6C5
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+    color: #341F4D;
+    background-color: #7A84FF;
+    line-height: 3em;
+}
+
+p{
+    color:#6D3EA3;
+    font-family: 'Playfair Display', serif;
+    line-height: 2em;
+    text-indent: 50px;
+
+}
+
+ul,blockquote,ol{
+    color:4D3008;
+    line-height: 2em
+}
+
+ul,blockquote,p,ol{
+    width:39em
+}

@@ -1,0 +1,52 @@
+/*****************************************************
+ * Lab 7
+ * CSCI 145
+ * Add selectors and rules to this file and 
+ * modify the accompanying HTML to create
+ * the style and layout described in the assignment.
+ *****************************************************/
+html{
+    background-color: #B4C999;
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 1000px;
+    margin:auto;
+    background-color: #1914CC;
+}
+header{
+    background-color: #39CC14;
+    padding: 10px;
+}
+h1{
+    font-family: 'Share Tech Mono', monospace;
+    text-align: center;
+    font-size: 4em;
+    margin: 0;
+}
+img{
+    width: 49%;
+    float: left;
+    margin-right: 20px;
+}
+#sidebar{
+    background-color: #50993D;
+    float: left;
+    width: 33%;
+    padding: 0 10px;
+    color:white;
+    box-sizing: border-box;
+}
+#main {
+    background-color: #1914CC;
+    float: right;
+    width: 67%;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+footer{
+    background-color: #7940FF;
+    clear: both;
+    font-size:10px;
+    padding: 15px;
+}

@@ -1,0 +1,88 @@
+/* Add the selectors, properties, and values necessary 
+   to match the index.html file to the mockup.png image. */
+
+img{
+    width: 400px;
+    margin-bottom: -25px;
+}
+
+body{
+    border-right-width:100px;
+    border-right-color: #ebc36c;
+    border-right-style: solid;
+    border-left-width:100px;
+    border-left-color: #ebc36c;
+    border-left-style:solid;
+    margin: auto;
+    width:400px;
+}
+
+h1{
+    font-size:300%;
+    text-transform: uppercase;
+}
+
+h2{
+    font-size:175%;
+}
+
+h1, h2{
+    font-family: 'Stint Ultra Expanded', cursive;
+    text-align:center;
+    background-color: #3f585c;
+    color:#f3e9bc;
+    line-height: 2em;
+    margin:0px;
+
+}
+
+aside{
+    background-color: #9fb69a;
+    font-style: italic;
+    font-size:175%;
+    border-right-width:40px;
+    border-right-color: #9fb69a;
+    border-right-style: solid;
+    border-left-width:40px;
+    border-left-color: #9fb69a;
+    border-left-style: solid;
+    margin:0px;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+    color:#cccccc;
+    border-right-width:20px;
+    border-right-color: white;
+    border-right-style: solid;
+    border-left-width:20px;
+    border-left-color: white;
+    border-left-style: solid;
+    padding: 20px;
+    margin: 0px;
+    font-size: 80%;
+
+
+}
+#content{
+    width:400px;
+    margin: auto;
+    border-right-width:5px;
+    border-right-color: #cc042d;
+    border-right-style: solid;
+    border-left-width:5px;
+    border-left-color: #cc042d;
+    border-left-style: solid;
+}
+
+footer{
+    background-color: #3f585c;
+    color:#f3e9bc;
+    font-size: 60%;
+    padding:10px;
+    margin: 0px;
+}
+
+section{
+    background-color: white;
+}
