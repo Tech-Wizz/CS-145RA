@@ -1,0 +1,18 @@
+
+            h1{
+                font-family: Helvetica, Arial, sana-serif;
+                color: #996633
+                font-size: 300%;
+            }
+            p{
+                margin: 1px;
+                text-indent: 30px;
+            }
+            img{
+                width: 400px
+                display: block;
+                margin:auto;
+            }
+            h3{
+                text-align: center;
+            }

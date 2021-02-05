@@ -1,0 +1,16 @@
+.container {
+width 750px
+margin
+padding 50px
+}
+
+body{
+font-size
+line-height: 3em
+}
+
+h1,h2,h3{
+font-family
+color
+}
+

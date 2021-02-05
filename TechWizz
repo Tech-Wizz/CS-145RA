@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>Tom Sawyer</title>
+</head>
+
+<body>
+    <h1>
+        The Adventures of Tom Sawyer
+    </h1>
+    <em> by Mark Twain</em>
+
+    <br><br>
+    
+    <img    src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fyt3.ggpht.com%2Fa-%2FAAuE7mC-suDEEwpvHCfnPb8lmX5SR0LUy6vP6SlquA%3Ds900-mo-c-c0xffffffff-rj-k-no&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCI2BQJllLAQ2fR5hlq_25uQ&docid=zwe9Qe3J6YB3DM&tbnid=q0yg5TV3ML8PYM%3A&vet=10ahUKEwj54s3WmKnkAhWN_J4KHU9gB2wQMwhBKAEwAQ..i&w=900&h=900&itg=1&bih=674&biw=1536&q=techwizz7&ved=0ahUKEwj54s3WmKnkAhWN_J4KHU9gB2wQMwhBKAEwAQ&iact=mrc&uact=8" alt="The TechWizz picture">
+    
+    <h2>
+        Chapter One
+    </h2>
+
+    <!-- Comments are like this. Markup for the markup. -->
+    <p>‘Tom!’</p>
+    <p>No answer.</p>
+    <p><a href="http://www.ismycomputeron.com"></a>‘TOM!’</p>
+    <p>No answer.</p>
+    <p>‘What’s gone with that boy, I wonder? You TOM!’
+        <p>No answer.</p>
+        <p>The old lady pulled her spectacles down and looked over them about the room; then she put them up and looked out under them. She seldom or never looked <strong>through</strong> them for so small a thing as a boy; they were her state pair, the pride of her heart, and were built for ‘style,’ not service — she could have seen through a pair of stove-lids just as well. She looked perplexed for a moment, and then said, not fiercely, but still loud enough for the furniture to hear:</p>
+        <p>‘Well, I lay if I get hold of you I’ll —’</p>
+        <p>She did not finish, for by this time she was bending down and punching under the bed with the broom, and so she needed breath to punctuate the punches with. She resurrected nothing but the cat.</p>
+
+</body>
+
+</html>
